@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Pradumn Kumar",
+      "salary": "30 crore",
+      "address": "Madhubani",
+      "team": "Krishna",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "Praveen Kumar",
+      "salary": "50 crore",
+      "address": "Delhi",
+      "team": "Krishna",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Khushi",
+      "salary": "20 lakh",
+      "address": "Mumbai",
+      "team": "Mahasena",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "Sachin",
+      "salary": "10 lakh",
+      "address": "New York",
+      "team": "Krishna",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
