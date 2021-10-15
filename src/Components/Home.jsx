@@ -1,6 +1,6 @@
 
 
-import homepage from '../Assets/Images/Home.png';
+import homepage from '../Assets/Images/Home6.png';
 
 const Home = () => {
     return(
